@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Jakob Neubig
 
-<!--
-**JaKoB-Data-Projects/JaKob-Data-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science learner from Hamburg, currently completing the **Data Scientist Professional Track on DataCamp**.  
+I’m especially drawn to the intersection between **data, human behavior, and decision-making** — how numbers tell stories, and how structure can bring clarity to complexity.
+I'm currently looking for an internship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Selected Projects
+
+#### 🎬 Netflix Movies Analysis
+Exploring trends in Netflix’s global catalog — genres, release years, and viewer preferences.  
+**Tools:** Python, pandas, matplotlib, seaborn  
+
+#### 🏫 NYC Schools Performance
+Analyzing how socioeconomic factors influence student achievement across New York City schools.  
+**Tools:** pandas, NumPy, scikit-learn  
+
+#### 🧬 Nobel Prize Data Exploration
+Investigating gender and geographic patterns among Nobel Prize laureates over time.  
+**Tools:** pandas, plotly, data storytelling  
+
+Each project helped me refine my workflow — from **data cleaning** to **visualization** and **insight communication**.
+
+---
+
+### 💡 Interests & Goals
+- Building clean, reproducible data pipelines  
+- Combining statistical reasoning with human insight  
+- Applying data analysis to education, sustainability, and social systems  
+- Exploring **R** for deeper statistical modeling and **Python** for automation and machine learning  
+
+---
+
+### 🛠️ Tech Stack
+`Python` • `pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn` • `Jupyter`  
+Learning: `SQL` • `Plotly` • `Dash`
+
+
+📫 **Let’s connect**  
+[LinkedIn](www.linkedin.com/in/jakob-neubig-81437136b) · [Email](mailto:j.neubig@live.ca)
