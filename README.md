@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakob Neubig
 
-I'm a data science learner from Hamburg, currently completing the **Data Scientist Professional Track on DataCamp**.  
+I'm a data science learner from Hamburg, currently completing the **Data Scientist Professional Track on DataCamp**. I'm B.A. Social Science with a focus on statistics.
 I’m especially drawn to the intersection between **data, human behavior, and decision-making** — how numbers tell stories, and how structure can bring clarity to complexity.
 I'm currently looking for an internship.
 
@@ -28,13 +28,13 @@ Each project helped me refine my workflow — from **data cleaning** to **visual
 - Building clean, reproducible data pipelines  
 - Combining statistical reasoning with human insight  
 - Applying data analysis to education, sustainability, and social systems  
-- Exploring **R** for deeper statistical modeling and **Python** for automation and machine learning  
+- Exploring  **Python** for automation, machine learning and statistic modelling.
 
 ---
 
 ### 🛠️ Tech Stack
 `Python` • `pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn` • `Jupyter`  
-Learning: `SQL` • `Plotly` • `Dash`
+Learning: `SQL` • `Plotly` • `Dash` • Python
 
 
 📫 **Let’s connect**  
