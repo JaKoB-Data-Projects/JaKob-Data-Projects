@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jakob Neubig  
 
 I'm a data science learner from Hamburg, currently completing the **Data Scientist Professional Track on DataCamp**.  
-I hold an B.A. in **Social Science** with a focus on statistics.  
+I hold an B.A. in **Social Science** with a focus on statistics. I'm looking for an internship in Hamburg as a Data Analyst. 
 
 I'm fascinated by how **numbers tell stories** — connecting **data, people, and the world we live in**.  
 My work combines analytical clarity with curiosity about what data can reveal about human behavior, social systems, and change.  
